@@ -11,7 +11,7 @@ the i go to website
 
 <img width="1851" height="974" alt="image" src="https://github.com/user-attachments/assets/9904b6a0-dfb2-452c-8e41-3f23c0d33d5d" />
 
-and it think we can find the password in the inspect the i got in inspect
+and it think we can find the password in the inspect the i go look at the inspect
 
 <img width="1021" height="976" alt="image" src="https://github.com/user-attachments/assets/a24e61bf-5a5c-4dbf-8d61-b5613d8409ef" />
 
