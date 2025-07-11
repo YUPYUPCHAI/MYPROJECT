@@ -2,6 +2,7 @@
 HOW I DO IT???
 <img width="917" height="692" alt="image" src="https://github.com/user-attachments/assets/f557d348-3a6a-414a-a8bc-8552bf6a01b3" />
 when i start i look at the proposition it say
+<br></br>
 <img width="586" height="193" alt="image" src="https://github.com/user-attachments/assets/61a712b5-06e1-4e72-a0e6-370372e6a783" />
 
 it say "My dog-sitter's brother made this website but I can't get in; can you help?"
